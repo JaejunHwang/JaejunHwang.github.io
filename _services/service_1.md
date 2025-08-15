@@ -1,0 +1,4 @@
+---
+layout: post
+inline: true
+---
