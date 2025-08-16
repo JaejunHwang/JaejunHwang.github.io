@@ -2,8 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: M.S student in the <a href='http://cvlab.postech.ac.kr/lab/'>Computer Vision Lab</a> at <a href='https://www.postech.ac.kr'>POSTECH</a>. 
-
 profile:
   align: right
   image: jjh.png
@@ -17,7 +15,6 @@ news: true  # includes a list of news items
 education: true # includes a list of education items
 experience: true # includes a list of experience items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-services: true
 honors: true
 social: true  # includes social icons at the bottom of the page
 ---

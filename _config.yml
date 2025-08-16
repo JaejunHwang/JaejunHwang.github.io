@@ -118,11 +118,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  services:
-    defaults:
-      layout: post
-    output: true
-    permalink: /services/:path/
+
   honors:
     defaults:
       layout: post
@@ -131,7 +127,6 @@ collections:
 
 news_limit: 5
 education_limit: 5
-services_limit: 10
 honors_limit: 5
 
 # -----------------------------------------------------------------------------
