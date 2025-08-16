@@ -42,7 +42,7 @@ jobs:
         
     - name: Build with Jekyll
       run: |
-        bundle exec jekyll build --verbose
+        bundle exec jekyll build
       env:
         JEKYLL_ENV: production
         
