@@ -4,7 +4,7 @@ title: About
 permalink: /
 profile:
   align: right
-  image: jjh.png
+  image: jjh.jpg
   # address: >
     # <p>Room#302, B2,</p>
     # <p>Chungam-Ro 77, POSTECH,</p>
